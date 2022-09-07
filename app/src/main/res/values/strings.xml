@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">aplikasi</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="step">STEP 1</string>
+    <string name="step2">STEP 2</string>
+    <string name="name">Name</string>
+    <string name="next">NEXT</string>
+    <string name="finish">FINISH</string>
+    <string name="mengisi">Silahkan Mengisi Password</string>
+    <string name="confpass">Confirmation Password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
